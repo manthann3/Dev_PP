@@ -6,3 +6,5 @@ console.log("Ganesha!!!");
 // (3) commit the changes 
 // (4) remote add origin
 // (5) push
+
+//WITH CMD
