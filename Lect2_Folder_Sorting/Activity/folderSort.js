@@ -2,7 +2,7 @@
 
 const fs = require("fs");
 const path = require("path");
-let folderPath = "./Downloads";
+// let folderPath = "./Downloads";
 let extensions = require("./util");
 
 
@@ -11,7 +11,7 @@ function makeAfolder(dir){
 }
 
 
-function alreadyHaveAFolder(ext){
+function alreadyHaveAFolder(ext,folderPath){
     let folderName    
         for(let key in extensions){
             if(extensions[key].includes(ext))
@@ -31,7 +31,7 @@ function alreadyHaveAFolder(ext){
 
 }
 
-function moveToFolder(fileName, folderName){
+function moveToFolder(fileName, folderName,folderPath){
     let src = folderPath+"/"+fileName;
     let dest = folderPath+"/"+folderName+"/"+fileName
     // console.log(src);
@@ -46,31 +46,24 @@ function moveToFolder(fileName, folderName){
 
 
 
-function folderSort () {
+function folderSort (folderPath) {
     
     // getting all the files in folder(Downloads in this case)
     let allFiles =  fs.readdirSync(folderPath);
     for(let i = 0 ;i < allFiles.length;i++){
         
-        //Name of all the files using this 
-        // console.log(allFiles[i]);
-
-        // name of all the extensions
-        // console.log(path.extname(allFiles[i]));
-        
-        // for(let key in extensions){
-        //     if(extensions[key].includes(path.extname(allFiles[i])))
-        //     console.log("YES");
-        // }
-
-
+        let isDirectory = fs.lstatSync(folderPath + "/"+ allFiles[i]).isDirectory();
+        if(isDirectory){
+          console.log("It is a folder");
+          folderSort(folderPath + "/"+ allFiles[i]); //"./Downloads/Audio"
+        }
         // ANSWER CODE
-        let folderName = alreadyHaveAFolder(path.extname(allFiles[i]))
+        let folderName = alreadyHaveAFolder(path.extname(allFiles[i]),folderPath)
         
-            moveToFolder(allFiles[i],folderName);
+            moveToFolder(allFiles[i],folderName,folderPath);
         
     }
 
 }
 
-folderSort();
+folderSort("./Downloads");
