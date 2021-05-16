@@ -1,5 +1,5 @@
 //High order funntion => accept other func as arguments
-//Callback functions => func which are passed into func as args
+//Callback functions => func which are passed into func as args (explained in 4th vid ie 12March 2021 wali vid, after 3 hours(set time to 3.00.00))
 
 function firstName (fullName){
     fullName= fullName.split(" ");
