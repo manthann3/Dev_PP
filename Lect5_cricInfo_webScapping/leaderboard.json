@@ -1,0 +1,962 @@
+[
+  {
+    "teamName": "Mumbai Indians ",
+    "batsmanName": "Rohit Sharma (c)",
+    "runs": 264,
+    "balls": 212,
+    "fours": 28,
+    "sixes": 12
+  },
+  {
+    "teamName": "Kings XI Punjab ",
+    "batsmanName": "KL Rahul (c)†",
+    "runs": 322,
+    "balls": 226,
+    "fours": 30,
+    "sixes": 14
+  },
+  {
+    "teamName": "Kings XI Punjab ",
+    "batsmanName": "Mayank Agarwal",
+    "runs": 233,
+    "balls": 162,
+    "fours": 26,
+    "sixes": 5
+  },
+  {
+    "teamName": "Kings XI Punjab ",
+    "batsmanName": "Chris Gayle",
+    "runs": 135,
+    "balls": 103,
+    "fours": 7,
+    "sixes": 10
+  },
+  {
+    "teamName": "Kings XI Punjab ",
+    "batsmanName": "Nicholas Pooran",
+    "runs": 125,
+    "balls": 86,
+    "fours": 8,
+    "sixes": 8
+  },
+  {
+    "teamName": "Kings XI Punjab ",
+    "batsmanName": "Mandeep Singh",
+    "runs": 14,
+    "balls": 17,
+    "fours": 1,
+    "sixes": 0
+  },
+  {
+    "teamName": "Kings XI Punjab ",
+    "batsmanName": "Deepak Hooda",
+    "runs": 86,
+    "balls": 47,
+    "fours": 4,
+    "sixes": 5
+  },
+  {
+    "teamName": "Kings XI Punjab ",
+    "batsmanName": "James Neesham",
+    "runs": 9,
+    "balls": 10,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Kings XI Punjab ",
+    "batsmanName": "Chris Jordan",
+    "runs": 22,
+    "balls": 19,
+    "fours": 2,
+    "sixes": 0
+  },
+  {
+    "teamName": "Chennai Super Kings ",
+    "batsmanName": "Ruturaj Gaikwad",
+    "runs": 199,
+    "balls": 158,
+    "fours": 16,
+    "sixes": 6
+  },
+  {
+    "teamName": "Chennai Super Kings ",
+    "batsmanName": "Faf du Plessis",
+    "runs": 164,
+    "balls": 126,
+    "fours": 17,
+    "sixes": 4
+  },
+  {
+    "teamName": "Chennai Super Kings ",
+    "batsmanName": "Ambati Rayudu",
+    "runs": 201,
+    "balls": 156,
+    "fours": 19,
+    "sixes": 6
+  },
+  {
+    "teamName": "Kolkata Knight Riders ",
+    "batsmanName": "Shubman Gill",
+    "runs": 223,
+    "balls": 188,
+    "fours": 22,
+    "sixes": 3
+  },
+  {
+    "teamName": "Kolkata Knight Riders ",
+    "batsmanName": "Rahul Tripathi",
+    "runs": 46,
+    "balls": 50,
+    "fours": 4,
+    "sixes": 1
+  },
+  {
+    "teamName": "Kolkata Knight Riders ",
+    "batsmanName": "Nitish Rana",
+    "runs": 153,
+    "balls": 112,
+    "fours": 20,
+    "sixes": 5
+  },
+  {
+    "teamName": "Kolkata Knight Riders ",
+    "batsmanName": "Andre Russell",
+    "runs": 30,
+    "balls": 24,
+    "fours": 4,
+    "sixes": 1
+  },
+  {
+    "teamName": "Kolkata Knight Riders ",
+    "batsmanName": "Eoin Morgan (c)",
+    "runs": 49,
+    "balls": 35,
+    "fours": 5,
+    "sixes": 1
+  },
+  {
+    "teamName": "Kolkata Knight Riders ",
+    "batsmanName": "Dinesh Karthik †",
+    "runs": 50,
+    "balls": 24,
+    "fours": 5,
+    "sixes": 2
+  },
+  {
+    "teamName": "Sunrisers Hyderabad ",
+    "batsmanName": "Jonny Bairstow †",
+    "runs": 97,
+    "balls": 74,
+    "fours": 13,
+    "sixes": 2
+  },
+  {
+    "teamName": "Sunrisers Hyderabad ",
+    "batsmanName": "Kane Williamson",
+    "runs": 163,
+    "balls": 135,
+    "fours": 12,
+    "sixes": 7
+  },
+  {
+    "teamName": "Sunrisers Hyderabad ",
+    "batsmanName": "Priyam Garg",
+    "runs": 91,
+    "balls": 72,
+    "fours": 7,
+    "sixes": 3
+  },
+  {
+    "teamName": "Sunrisers Hyderabad ",
+    "batsmanName": "David Warner (c)",
+    "runs": 229,
+    "balls": 181,
+    "fours": 24,
+    "sixes": 3
+  },
+  {
+    "teamName": "Sunrisers Hyderabad ",
+    "batsmanName": "Manish Pandey",
+    "runs": 191,
+    "balls": 153,
+    "fours": 20,
+    "sixes": 5
+  },
+  {
+    "teamName": "Sunrisers Hyderabad ",
+    "batsmanName": "Vijay Shankar",
+    "runs": 7,
+    "balls": 11,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Sunrisers Hyderabad ",
+    "batsmanName": "Abdul Samad",
+    "runs": 64,
+    "balls": 37,
+    "fours": 4,
+    "sixes": 3
+  },
+  {
+    "teamName": "Sunrisers Hyderabad ",
+    "batsmanName": "Rashid Khan",
+    "runs": 18,
+    "balls": 14,
+    "fours": 2,
+    "sixes": 1
+  },
+  {
+    "teamName": "Delhi Capitals ",
+    "batsmanName": "Marcus Stoinis",
+    "runs": 184,
+    "balls": 119,
+    "fours": 19,
+    "sixes": 8
+  },
+  {
+    "teamName": "Delhi Capitals ",
+    "batsmanName": "Shikhar Dhawan",
+    "runs": 204,
+    "balls": 141,
+    "fours": 21,
+    "sixes": 4
+  },
+  {
+    "teamName": "Delhi Capitals ",
+    "batsmanName": "Ajinkya Rahane",
+    "runs": 64,
+    "balls": 62,
+    "fours": 5,
+    "sixes": 1
+  },
+  {
+    "teamName": "Delhi Capitals ",
+    "batsmanName": "Shreyas Iyer (c)",
+    "runs": 197,
+    "balls": 162,
+    "fours": 13,
+    "sixes": 7
+  },
+  {
+    "teamName": "Delhi Capitals ",
+    "batsmanName": "Rishabh Pant †",
+    "runs": 100,
+    "balls": 86,
+    "fours": 9,
+    "sixes": 2
+  },
+  {
+    "teamName": "Delhi Capitals ",
+    "batsmanName": "Shimron Hetmyer",
+    "runs": 54,
+    "balls": 40,
+    "fours": 6,
+    "sixes": 1
+  },
+  {
+    "teamName": "Delhi Capitals ",
+    "batsmanName": "Axar Patel",
+    "runs": 64,
+    "balls": 55,
+    "fours": 4,
+    "sixes": 3
+  },
+  {
+    "teamName": "Delhi Capitals ",
+    "batsmanName": "Kagiso Rabada",
+    "runs": 15,
+    "balls": 15,
+    "fours": 2,
+    "sixes": 0
+  },
+  {
+    "teamName": "Mumbai Indians ",
+    "batsmanName": "Quinton de Kock †",
+    "runs": 217,
+    "balls": 155,
+    "fours": 23,
+    "sixes": 9
+  },
+  {
+    "teamName": "Mumbai Indians ",
+    "batsmanName": "Suryakumar Yadav",
+    "runs": 133,
+    "balls": 114,
+    "fours": 16,
+    "sixes": 3
+  },
+  {
+    "teamName": "Mumbai Indians ",
+    "batsmanName": "Ishan Kishan",
+    "runs": 224,
+    "balls": 155,
+    "fours": 16,
+    "sixes": 12
+  },
+  {
+    "teamName": "Mumbai Indians ",
+    "batsmanName": "Kieron Pollard",
+    "runs": 149,
+    "balls": 77,
+    "fours": 9,
+    "sixes": 13
+  },
+  {
+    "teamName": "Mumbai Indians ",
+    "batsmanName": "Hardik Pandya",
+    "runs": 92,
+    "balls": 44,
+    "fours": 3,
+    "sixes": 10
+  },
+  {
+    "teamName": "Mumbai Indians ",
+    "batsmanName": "Krunal Pandya",
+    "runs": 51,
+    "balls": 47,
+    "fours": 4,
+    "sixes": 2
+  },
+  {
+    "teamName": "Kolkata Knight Riders ",
+    "batsmanName": "Sunil Narine",
+    "runs": 7,
+    "balls": 9,
+    "fours": 0,
+    "sixes": 1
+  },
+  {
+    "teamName": "Kolkata Knight Riders ",
+    "batsmanName": "Rinku Singh",
+    "runs": 11,
+    "balls": 11,
+    "fours": 1,
+    "sixes": 0
+  },
+  {
+    "teamName": "Chennai Super Kings ",
+    "batsmanName": "Shane Watson",
+    "runs": 27,
+    "balls": 33,
+    "fours": 4,
+    "sixes": 1
+  },
+  {
+    "teamName": "Chennai Super Kings ",
+    "batsmanName": "MS Dhoni (c)†",
+    "runs": 111,
+    "balls": 107,
+    "fours": 11,
+    "sixes": 2
+  },
+  {
+    "teamName": "Chennai Super Kings ",
+    "batsmanName": "Sam Curran",
+    "runs": 120,
+    "balls": 97,
+    "fours": 7,
+    "sixes": 7
+  },
+  {
+    "teamName": "Chennai Super Kings ",
+    "batsmanName": "Ravindra Jadeja",
+    "runs": 133,
+    "balls": 87,
+    "fours": 14,
+    "sixes": 5
+  },
+  {
+    "teamName": "Mumbai Indians ",
+    "batsmanName": "Saurabh Tiwary",
+    "runs": 43,
+    "balls": 34,
+    "fours": 3,
+    "sixes": 1
+  },
+  {
+    "teamName": "Mumbai Indians ",
+    "batsmanName": "James Pattinson",
+    "runs": 15,
+    "balls": 13,
+    "fours": 2,
+    "sixes": 0
+  },
+  {
+    "teamName": "Mumbai Indians ",
+    "batsmanName": "Rahul Chahar",
+    "runs": 2,
+    "balls": 4,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Mumbai Indians ",
+    "batsmanName": "Trent Boult",
+    "runs": 0,
+    "balls": 1,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Mumbai Indians ",
+    "batsmanName": "Jasprit Bumrah",
+    "runs": 5,
+    "balls": 3,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Chennai Super Kings ",
+    "batsmanName": "Murali Vijay",
+    "runs": 1,
+    "balls": 7,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Royal Challengers Bangalore ",
+    "batsmanName": "Josh Philippe",
+    "runs": 44,
+    "balls": 48,
+    "fours": 5,
+    "sixes": 0
+  },
+  {
+    "teamName": "Royal Challengers Bangalore ",
+    "batsmanName": "Devdutt Padikkal",
+    "runs": 167,
+    "balls": 143,
+    "fours": 20,
+    "sixes": 2
+  },
+  {
+    "teamName": "Royal Challengers Bangalore ",
+    "batsmanName": "Virat Kohli (c)",
+    "runs": 140,
+    "balls": 127,
+    "fours": 4,
+    "sixes": 2
+  },
+  {
+    "teamName": "Royal Challengers Bangalore ",
+    "batsmanName": "AB de Villiers †",
+    "runs": 227,
+    "balls": 157,
+    "fours": 16,
+    "sixes": 9
+  },
+  {
+    "teamName": "Royal Challengers Bangalore ",
+    "batsmanName": "Washington Sundar",
+    "runs": 61,
+    "balls": 54,
+    "fours": 5,
+    "sixes": 1
+  },
+  {
+    "teamName": "Royal Challengers Bangalore ",
+    "batsmanName": "Gurkeerat Singh Mann",
+    "runs": 17,
+    "balls": 26,
+    "fours": 1,
+    "sixes": 0
+  },
+  {
+    "teamName": "Royal Challengers Bangalore ",
+    "batsmanName": "Chris Morris",
+    "runs": 5,
+    "balls": 11,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Royal Challengers Bangalore ",
+    "batsmanName": "Isuru Udana",
+    "runs": 4,
+    "balls": 3,
+    "fours": 1,
+    "sixes": 0
+  },
+  {
+    "teamName": "Royal Challengers Bangalore ",
+    "batsmanName": "Mohammed Siraj",
+    "runs": 12,
+    "balls": 10,
+    "fours": 1,
+    "sixes": 0
+  },
+  {
+    "teamName": "Sunrisers Hyderabad ",
+    "batsmanName": "Wriddhiman Saha †",
+    "runs": 127,
+    "balls": 108,
+    "fours": 12,
+    "sixes": 3
+  },
+  {
+    "teamName": "Sunrisers Hyderabad ",
+    "batsmanName": "Abhishek Sharma",
+    "runs": 48,
+    "balls": 36,
+    "fours": 5,
+    "sixes": 2
+  },
+  {
+    "teamName": "Sunrisers Hyderabad ",
+    "batsmanName": "Jason Holder",
+    "runs": 61,
+    "balls": 45,
+    "fours": 5,
+    "sixes": 3
+  },
+  {
+    "teamName": "Kolkata Knight Riders ",
+    "batsmanName": "Eoin Morgan",
+    "runs": 74,
+    "balls": 64,
+    "fours": 6,
+    "sixes": 3
+  },
+  {
+    "teamName": "Kolkata Knight Riders ",
+    "batsmanName": "Dinesh Karthik (c)†",
+    "runs": 59,
+    "balls": 34,
+    "fours": 8,
+    "sixes": 2
+  },
+  {
+    "teamName": "Kolkata Knight Riders ",
+    "batsmanName": "Pat Cummins",
+    "runs": 6,
+    "balls": 7,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Kings XI Punjab ",
+    "batsmanName": "KL Rahul (c)",
+    "runs": 74,
+    "balls": 58,
+    "fours": 6,
+    "sixes": 0
+  },
+  {
+    "teamName": "Kings XI Punjab ",
+    "batsmanName": "Prabhsimran Singh †",
+    "runs": 4,
+    "balls": 7,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Kings XI Punjab ",
+    "batsmanName": "Glenn Maxwell",
+    "runs": 33,
+    "balls": 41,
+    "fours": 3,
+    "sixes": 0
+  },
+  {
+    "teamName": "Chennai Super Kings ",
+    "batsmanName": "Kedar Jadhav",
+    "runs": 7,
+    "balls": 17,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Rajasthan Royals ",
+    "batsmanName": "Ben Stokes",
+    "runs": 110,
+    "balls": 72,
+    "fours": 15,
+    "sixes": 3
+  },
+  {
+    "teamName": "Rajasthan Royals ",
+    "batsmanName": "Robin Uthappa",
+    "runs": 66,
+    "balls": 59,
+    "fours": 4,
+    "sixes": 3
+  },
+  {
+    "teamName": "Rajasthan Royals ",
+    "batsmanName": "Sanju Samson †",
+    "runs": 48,
+    "balls": 28,
+    "fours": 4,
+    "sixes": 3
+  },
+  {
+    "teamName": "Rajasthan Royals ",
+    "batsmanName": "Steven Smith (c)",
+    "runs": 58,
+    "balls": 58,
+    "fours": 7,
+    "sixes": 0
+  },
+  {
+    "teamName": "Rajasthan Royals ",
+    "batsmanName": "Jos Buttler",
+    "runs": 92,
+    "balls": 59,
+    "fours": 8,
+    "sixes": 4
+  },
+  {
+    "teamName": "Sunrisers Hyderabad ",
+    "batsmanName": "Jonny Bairstow",
+    "runs": 5,
+    "balls": 10,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Sunrisers Hyderabad ",
+    "batsmanName": "Mohammad Nabi",
+    "runs": 11,
+    "balls": 8,
+    "fours": 2,
+    "sixes": 0
+  },
+  {
+    "teamName": "Royal Challengers Bangalore ",
+    "batsmanName": "Aaron Finch",
+    "runs": 143,
+    "balls": 126,
+    "fours": 14,
+    "sixes": 4
+  },
+  {
+    "teamName": "Royal Challengers Bangalore ",
+    "batsmanName": "Moeen Ali",
+    "runs": 1,
+    "balls": 3,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Royal Challengers Bangalore ",
+    "batsmanName": "Shivam Dube",
+    "runs": 44,
+    "balls": 44,
+    "fours": 2,
+    "sixes": 2
+  },
+  {
+    "teamName": "Royal Challengers Bangalore ",
+    "batsmanName": "Navdeep Saini",
+    "runs": 15,
+    "balls": 15,
+    "fours": 2,
+    "sixes": 0
+  },
+  {
+    "teamName": "Sunrisers Hyderabad ",
+    "batsmanName": "Shreevats Goswami †",
+    "runs": 0,
+    "balls": 4,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Kings XI Punjab ",
+    "batsmanName": "Karun Nair",
+    "runs": 16,
+    "balls": 14,
+    "fours": 2,
+    "sixes": 0
+  },
+  {
+    "teamName": "Kings XI Punjab ",
+    "batsmanName": "Sarfaraz Khan",
+    "runs": 19,
+    "balls": 20,
+    "fours": 3,
+    "sixes": 0
+  },
+  {
+    "teamName": "Kings XI Punjab ",
+    "batsmanName": "Krishnappa Gowtham",
+    "runs": 42,
+    "balls": 27,
+    "fours": 3,
+    "sixes": 2
+  },
+  {
+    "teamName": "Kings XI Punjab ",
+    "batsmanName": "Ravi Bishnoi",
+    "runs": 1,
+    "balls": 5,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Kings XI Punjab ",
+    "batsmanName": "Mohammed Shami",
+    "runs": 2,
+    "balls": 2,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Mumbai Indians ",
+    "batsmanName": "Nathan Coulter-Nile",
+    "runs": 25,
+    "balls": 15,
+    "fours": 4,
+    "sixes": 0
+  },
+  {
+    "teamName": "Mumbai Indians ",
+    "batsmanName": "Dhawal Kulkarni",
+    "runs": 3,
+    "balls": 2,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Royal Challengers Bangalore ",
+    "batsmanName": "Shahbaz Ahmed",
+    "runs": 1,
+    "balls": 1,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Delhi Capitals ",
+    "batsmanName": "Prithvi Shaw",
+    "runs": 14,
+    "balls": 18,
+    "fours": 3,
+    "sixes": 0
+  },
+  {
+    "teamName": "Delhi Capitals ",
+    "batsmanName": "Alex Carey †",
+    "runs": 14,
+    "balls": 13,
+    "fours": 0,
+    "sixes": 1
+  },
+  {
+    "teamName": "Delhi Capitals ",
+    "batsmanName": "Ravichandran Ashwin",
+    "runs": 4,
+    "balls": 6,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Rajasthan Royals ",
+    "batsmanName": "Jos Buttler †",
+    "runs": 22,
+    "balls": 9,
+    "fours": 3,
+    "sixes": 1
+  },
+  {
+    "teamName": "Rajasthan Royals ",
+    "batsmanName": "Sanju Samson",
+    "runs": 25,
+    "balls": 18,
+    "fours": 0,
+    "sixes": 2
+  },
+  {
+    "teamName": "Rajasthan Royals ",
+    "batsmanName": "Riyan Parag",
+    "runs": 1,
+    "balls": 2,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Rajasthan Royals ",
+    "batsmanName": "Rahul Tewatia",
+    "runs": 14,
+    "balls": 18,
+    "fours": 1,
+    "sixes": 0
+  },
+  {
+    "teamName": "Rajasthan Royals ",
+    "batsmanName": "Jofra Archer",
+    "runs": 1,
+    "balls": 4,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Rajasthan Royals ",
+    "batsmanName": "Shreyas Gopal",
+    "runs": 6,
+    "balls": 4,
+    "fours": 1,
+    "sixes": 0
+  },
+  {
+    "teamName": "Kolkata Knight Riders ",
+    "batsmanName": "Tom Banton",
+    "runs": 8,
+    "balls": 12,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Kolkata Knight Riders ",
+    "batsmanName": "Kamlesh Nagarkoti",
+    "runs": 4,
+    "balls": 7,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Kolkata Knight Riders ",
+    "batsmanName": "Varun Chakravarthy",
+    "runs": 7,
+    "balls": 10,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Kolkata Knight Riders ",
+    "batsmanName": "Prasidh Krishna",
+    "runs": 2,
+    "balls": 3,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Chennai Super Kings ",
+    "batsmanName": "Narayan Jagadeesan",
+    "runs": 0,
+    "balls": 1,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Chennai Super Kings ",
+    "batsmanName": "Deepak Chahar",
+    "runs": 0,
+    "balls": 5,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Chennai Super Kings ",
+    "batsmanName": "Shardul Thakur",
+    "runs": 11,
+    "balls": 20,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Chennai Super Kings ",
+    "batsmanName": "Imran Tahir",
+    "runs": 13,
+    "balls": 10,
+    "fours": 2,
+    "sixes": 0
+  },
+  {
+    "teamName": "Royal Challengers Bangalore ",
+    "batsmanName": "Josh Philippe †",
+    "runs": 1,
+    "balls": 5,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Royal Challengers Bangalore ",
+    "batsmanName": "AB de Villiers",
+    "runs": 79,
+    "balls": 48,
+    "fours": 8,
+    "sixes": 3
+  },
+  {
+    "teamName": "Royal Challengers Bangalore ",
+    "batsmanName": "Umesh Yadav",
+    "runs": 0,
+    "balls": 2,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Royal Challengers Bangalore ",
+    "batsmanName": "Dale Steyn",
+    "runs": 1,
+    "balls": 2,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Royal Challengers Bangalore ",
+    "batsmanName": "Yuzvendra Chahal",
+    "runs": 1,
+    "balls": 3,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Sunrisers Hyderabad ",
+    "batsmanName": "Bhuvneshwar Kumar",
+    "runs": 0,
+    "balls": 2,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Sunrisers Hyderabad ",
+    "batsmanName": "Sandeep Sharma",
+    "runs": 11,
+    "balls": 10,
+    "fours": 1,
+    "sixes": 0
+  },
+  {
+    "teamName": "Sunrisers Hyderabad ",
+    "batsmanName": "Mitchell Marsh",
+    "runs": 0,
+    "balls": 1,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Sunrisers Hyderabad ",
+    "batsmanName": "T Natarajan",
+    "runs": 3,
+    "balls": 4,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Delhi Capitals ",
+    "batsmanName": "Anrich Nortje",
+    "runs": 3,
+    "balls": 1,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Sunrisers Hyderabad ",
+    "batsmanName": "Shahbaz Nadeem",
+    "runs": 2,
+    "balls": 3,
+    "fours": 0,
+    "sixes": 0
+  },
+  {
+    "teamName": "Delhi Capitals ",
+    "batsmanName": "Daniel Sams",
+    "runs": 0,
+    "balls": 2,
+    "fours": 0,
+    "sixes": 0
+  }
+]
