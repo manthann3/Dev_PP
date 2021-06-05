@@ -17,7 +17,7 @@ function parseBody(outerFolder, innerFolder, html) {
   let issueNames = ch(".d-block.d-md-none.position-absolute");
 
   //   console.log(issueNames[24]);
-
+  let objArray = [];
   for (let i = 0; i < 10; i++) {
     let issue = issueNames[i];
     let val = ch(issue).attr("aria-label");
@@ -28,10 +28,13 @@ function parseBody(outerFolder, innerFolder, html) {
       title: title,
       link: hrefText,
     };
-    let path = `./${outerFolder}/${innerFolder}/${i}.json`;
-    fs.writeFileSync(path, JSON.stringify(obj))
-    console.log(path);
+    
+    // fs.writeFileSync(path, JSON.stringify(obj))
+    // console.log(path);
+    objArray.push(obj);
   }
+  let path = `./${outerFolder}/${innerFolder}/issues.json`;
+  fs.writeFileSync(path, JSON.stringify(objArray))
 }
 
 module.exports = getIssueLink;
